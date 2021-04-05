@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NemoTheFish006
-- 👀 I’m interested in Unity, C#, Game Development and video games!
+- 👀 I’m interested in Unity, C#, Game Development and Video Games!
 - 🌱 I’m currently learning all of the above.
-- 💞️ I’m looking to collaborate on nothing at the moment.
+- 💞️ I’m looking to collaborate on nothing at the moment, i'm currently collabing already.
 - 📫 How to reach me discord.
 
 <!---
